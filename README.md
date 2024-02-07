@@ -58,9 +58,9 @@ The ML pipeline is executed in the command prompt as follows:
 
 ## UI Application
 - The application aims to:
--- 1. make use of the afore-mentioned algorithm to predict likely classification of messages provided by the user,
--- 2. train a new classifier based on new data provided by the user,
--- 3. provide simple graphical visualizations of the underlying data
+- 1. make use of the afore-mentioned algorithm to predict likely classification of messages provided by the user,
+- 2. train a new classifier based on new data provided by the user,
+- 3. provide simple graphical visualizations of the underlying data
 
 The libraries employed here are:
 * import json
